@@ -10,6 +10,8 @@
   * [Fetching Node Response](api-reference/nodes/fetching-node-response.md)
 * [/war/:tier](api-reference/war-tier/README.md)
   * [Fetching War Response](api-reference/war-tier/fetching-war-response.md)
+* [/find](api-reference/find/README.md)
+  * [Fetching Find Response](api-reference/find/fetching-find-response.md)
 * [ROSTER(New)](api-reference/roster-new/README.md)
   * [/roster/get](api-reference/roster-new/roster-get.md)
 

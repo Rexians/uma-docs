@@ -10,7 +10,7 @@ Note - The highest possible tier is 22
 {% tabs %}
 {% tab title="Python" %}
 ```python
-import requests
+import requests        #pip install requests
 import json
 
 #Get war info for tier 10

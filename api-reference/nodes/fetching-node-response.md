@@ -11,7 +11,7 @@ To get the information for a specific node, use the id that was found in the pre
 {% tabs %}
 {% tab title="Python" %}
 ```python
-import requests
+import requests       #pip install requests
 import json
 
 #Gets all nodes

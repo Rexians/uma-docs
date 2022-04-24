@@ -107,4 +107,12 @@ Rank of champion
 }
 ```
 {% endswagger-response %}
+
+{% swagger-response status="422: Unprocessable Entity" description="Missing query parameter" %}
+```javascript
+{
+    "detail": "The following arguments are missing: tier"
+}
+```
+{% endswagger-response %}
 {% endswagger %}

@@ -15,7 +15,7 @@ Example to use the `/champs` endpoint in some langauges is shown below:
 {% tabs %}
 {% tab title="Python" %}
 ```python
-import requests
+import requests        #pip install requests
 
 champ_name = str(input("Write champname: "))
 tier = int(input("Write Tier of Champion: "))
