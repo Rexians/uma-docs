@@ -41,7 +41,7 @@ Tier of alliance war
 {% swagger-response status="400: Bad Request" description="Tier not found" %}
 ```javascript
 {
-    // Response
+    "detail": "Tier 44 not found in the file"
 }
 ```
 {% endswagger-response %}
@@ -50,14 +50,6 @@ Tier of alliance war
 ```javascript
 {
     "detail": "Incorrect type for parameter (tier). Should be integer"
-}
-```
-{% endswagger-response %}
-
-{% swagger-response status="404: Not Found" description="No tier provided" %}
-```javascript
-{
-    "detail": "Tier 30 not found in the file"
 }
 ```
 {% endswagger-response %}
