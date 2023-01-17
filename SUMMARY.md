@@ -12,6 +12,8 @@
   * [Fetching War Response](api-reference/war-tier/fetching-war-response.md)
 * [/find](api-reference/find/README.md)
   * [Fetching Find Response](api-reference/find/fetching-find-response.md)
+* [/battlegrounds](api-reference/battlegrounds/README.md)
+  * [Fetching Battlegrounds Response](api-reference/battlegrounds/fetching-battlegrounds-response.md)
 * [ROSTER(New)](api-reference/roster-new/README.md)
   * [/roster/get](api-reference/roster-new/roster-get.md)
 
